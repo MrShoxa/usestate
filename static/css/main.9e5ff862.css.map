@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9e5ff862.css","mappings":"AAAA,OACA,qBAGA,CACA,cAFA,YAAa,CADb,WAQA,CALA,OACA,wBAIA","sources":["index.css"],"sourcesContent":[".card1{\nbackground-color: blue;\nwidth: 300px;\nheight: 300px;\n}\n.card2{\nbackground-color: chartreuse;\nwidth: 300px;\nheight: 300px;\n\n}"],"names":[],"sourceRoot":""}
